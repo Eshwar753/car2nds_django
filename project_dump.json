@@ -1,0 +1,1275 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2023 BMW 3 Series M340i Xdrive",
+        "state": "KA",
+        "city": "Banglore",
+        "color": "Blue",
+        "model": "M340i Xdrive",
+        "year": 2023,
+        "condition": "used",
+        "price": 7000000,
+        "description": "BMW M340i car comes in 1 petrol versions. The M340i petrol version comes with a 2998cc engine capacity.\r\nThe new BMW M340i is powered by the same 3.0-litre, six-cylinder petrol engine that produces 382bhp and 500Nm of torque. The engine is mated to a Steptronic eight-speed transmission. The updated M340i also includes BMW's xDrive all-wheel-drive system.",
+        "car_photo": "photos/2023/12/BMW1.jpg",
+        "car_photo_1": "photos/2023/12/BMW2.jpg",
+        "car_photo_2": "photos/2023/12/BMW3.jpg",
+        "car_photo_3": "photos/2023/12/BMW4.jpg",
+        "car_photo_4": "photos/2023/12/BMW5.jpg",
+        "Cruise_Control": true,
+        "Audio_Interface": true,
+        "Airbags": true,
+        "Air_Conditioning": true,
+        "Seat_Heating": true,
+        "Alarm_System": true,
+        "ParkAssist": true,
+        "Power_Steering": true,
+        "Reversing_Camera": true,
+        "Direct_Fuel_Injection": true,
+        "Auto_Start_Stop": true,
+        "body_style": "coupe",
+        "engine": "2998 cc",
+        "transmission": "Automatic",
+        "interior": "black",
+        "kms": 17000,
+        "doors": "5",
+        "passengers": 4,
+        "vin_no": "KA05",
+        "milage": 11,
+        "fuel_type": "petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-12-20T15:09:12Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2021 Jeep Compass Model S 4X4 Diesel AT BSVI",
+        "state": "DL",
+        "city": "Delhi",
+        "color": "gray",
+        "model": "Model S 4X4 Diesel AT BSVI",
+        "year": 2021,
+        "condition": "used",
+        "price": 2500000,
+        "description": "Jeep Compass Model S (O) Diesel 4x4 AT [2021] is the diesel variant in the Compass lineup and is priced at Rs. 31.26 Lakh. It gives a mileage of 17.1 kmpl. Jeep Compass Model S (O) Diesel 4x4 AT [2021] is available in Automatic (TC) transmission and offered in 5 colours: Brilliant Black, Techno Metallic Green, Galaxy Blue, Grigio Magnesio Grey and Exotica Red.",
+        "car_photo": "photos/2023/12/jeep1.jpg",
+        "car_photo_1": "photos/2023/12/jeep2.jpg",
+        "car_photo_2": "photos/2023/12/jeep3.jpg",
+        "car_photo_3": "photos/2023/12/jeep4.jpg",
+        "car_photo_4": "photos/2023/12/jeep5.jpg",
+        "Cruise_Control": true,
+        "Audio_Interface": true,
+        "Airbags": true,
+        "Air_Conditioning": true,
+        "Seat_Heating": true,
+        "Alarm_System": true,
+        "ParkAssist": true,
+        "Power_Steering": true,
+        "Reversing_Camera": true,
+        "Direct_Fuel_Injection": true,
+        "Auto_Start_Stop": true,
+        "body_style": "suv",
+        "engine": "1956 cc",
+        "transmission": "Automatic",
+        "interior": "black",
+        "kms": 22999,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "DL01",
+        "milage": 15,
+        "fuel_type": "diesel",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2023-12-20T15:19:42Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2011 Honda City 1.5 V MT",
+        "state": "AP",
+        "city": "Hydrabhad",
+        "color": "gray",
+        "model": "1.5 V MT",
+        "year": 2011,
+        "condition": "used",
+        "price": 400000,
+        "description": "Honda City [2011-2014] 1.5 V MT is the top model in the City [2011-2014] lineup and the price of City [2011-2014] top model is Rs. 9.38 Lakh. It gives a mileage of 16.8 kmpl. Honda City [2011-2014] 1.5 V MT is available in Manual transmission and offered in 6 colours: Carnelian Red Pearl, Urban Titanium Metalic, Alabaster Silver Metallic, Bold Beige Metallic, Sparkiling Brown Metallic and Tafeta White.",
+        "car_photo": "photos/2023/12/honda1.jpg",
+        "car_photo_1": "photos/2023/12/honda2.jpg",
+        "car_photo_2": "photos/2023/12/honda3.jpg",
+        "car_photo_3": "photos/2023/12/honda4.jpg",
+        "car_photo_4": "",
+        "Cruise_Control": false,
+        "Audio_Interface": true,
+        "Airbags": true,
+        "Air_Conditioning": true,
+        "Seat_Heating": false,
+        "Alarm_System": true,
+        "ParkAssist": false,
+        "Power_Steering": true,
+        "Reversing_Camera": false,
+        "Direct_Fuel_Injection": false,
+        "Auto_Start_Stop": false,
+        "body_style": "sedan",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "interior": "black",
+        "kms": 50000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "AP04",
+        "milage": 17,
+        "fuel_type": "petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2023-12-20T16:25:05Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2022 MG Hector Sharp Diesel MT",
+        "state": "MH",
+        "city": "Mumbai",
+        "color": "red",
+        "model": "Sharp Diesel MT",
+        "year": 2022,
+        "condition": "used",
+        "price": 2000000,
+        "description": "MG Hector Sharp Pro 2.0 Turbo Diesel MT is a Diesel version from MG. It is priced at 25.64 lakh in Delhi. It comes with 1956 cc Diesel engine and 6-speed gear Manual transmission. The fuel tank capacity of Hector Sharp Pro 2.0 Turbo Diesel MT is 60 litres.2022 MG Hector Sharp Diesel MT",
+        "car_photo": "photos/2023/12/mg1.jpg",
+        "car_photo_1": "photos/2023/12/mg2.jpg",
+        "car_photo_2": "photos/2023/12/mg3.jpg",
+        "car_photo_3": "photos/2023/12/mg4.jpg",
+        "car_photo_4": "photos/2023/12/mg5.jpg",
+        "Cruise_Control": true,
+        "Audio_Interface": true,
+        "Airbags": true,
+        "Air_Conditioning": true,
+        "Seat_Heating": false,
+        "Alarm_System": true,
+        "ParkAssist": false,
+        "Power_Steering": true,
+        "Reversing_Camera": true,
+        "Direct_Fuel_Injection": false,
+        "Auto_Start_Stop": false,
+        "body_style": "suv",
+        "engine": "1956 cc",
+        "transmission": "Manual",
+        "interior": "white",
+        "kms": 25000,
+        "doors": "4",
+        "passengers": 3,
+        "vin_no": "MH03",
+        "milage": 19,
+        "fuel_type": "diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-12-20T16:29:29Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2017 Land Rover Discovery Sport TD4 Pure",
+        "state": "TN",
+        "city": "Chennai",
+        "color": "white",
+        "model": "Sport TD4 Pure",
+        "year": 2017,
+        "condition": "used",
+        "price": 3000000,
+        "description": "The four-wheel drive Discovery Sport we’re testing here is powered by a 148bhp 2.0-litre TD4 four-cylinder diesel engine capable of 0-60mph in 11 seconds and a top speed of 112mph. A six-speed manual gearbox is standard-fit. range rover, land rover, 2017 Land Rover Discovery Sport TD4 Pure",
+        "car_photo": "photos/2023/12/lr1.jpg",
+        "car_photo_1": "photos/2023/12/lr2.jpg",
+        "car_photo_2": "photos/2023/12/lr3.jpg",
+        "car_photo_3": "photos/2023/12/lr4.jpg",
+        "car_photo_4": "",
+        "Cruise_Control": true,
+        "Audio_Interface": true,
+        "Airbags": true,
+        "Air_Conditioning": true,
+        "Seat_Heating": false,
+        "Alarm_System": true,
+        "ParkAssist": true,
+        "Power_Steering": true,
+        "Reversing_Camera": true,
+        "Direct_Fuel_Injection": true,
+        "Auto_Start_Stop": true,
+        "body_style": "suv",
+        "engine": "1999 cc",
+        "transmission": "Automatic",
+        "interior": "white",
+        "kms": 50000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "TN04",
+        "milage": 13,
+        "fuel_type": "diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2023-12-20T16:33:00Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Rajesh",
+        "last_name": "Shulka",
+        "designation": "Manager",
+        "photo": "photos/12/2023/ava_1.jpeg",
+        "fb_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2023-12-20T05:04:50.019Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/12/2023/avatar-9.jpg",
+        "fb_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2023-12-20T05:06:08.617Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manger",
+        "photo": "photos/12/2023/avatar-1.jpg",
+        "fb_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2023-12-20T05:08:04.853Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Jack",
+        "last_name": "doe",
+        "designation": "CEO",
+        "photo": "photos/05/2024/pexels-juanpphotoandvideo-1139743.jpg",
+        "fb_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2023-12-20T05:10:18.120Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Rahul",
+        "last_name": "Shulka",
+        "designation": "Founder",
+        "photo": "photos/12/2023/pexels-tony-zed-3990502.jpg",
+        "fb_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2023-12-20T05:12:06.451Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Eshwar",
+        "last_name": "sb",
+        "car_id": 1,
+        "customer_need": "I'm interested in this",
+        "car_title": "2023 BMW 3 Series M340i Xdrive",
+        "city": "Banglore",
+        "state": "ka",
+        "email": "esb753@gmail.com",
+        "phone": "1234567890",
+        "message": "test",
+        "user_id": 1,
+        "create_date": "2023-12-28T15:54:53.430Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "Eshwar",
+        "last_name": "sb",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Land Rover Discovery Sport TD4 Pure",
+        "city": "Banglore",
+        "state": "ka",
+        "email": "esb753@gmail.com",
+        "phone": "1234567890",
+        "message": "test2",
+        "user_id": 1,
+        "create_date": "2023-12-28T15:57:32.058Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$720000$B6gga7pWR70204EgJNRjcI$ZTyhLEHYFMQH8lBWQOzHSIGmFOMDSx89+J2/JzeAPYU=",
+        "last_login": "2024-05-27T15:47:35.567Z",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "Eshwar",
+        "last_name": "sb",
+        "email": "esb753@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-12-19T11:58:35Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$720000$5MkQ4CNgZmbFtH5lCIQp4Y$99FXoppn3qmVxP0hJhrzee2tehDp4A580AK+q3WVQUQ=",
+        "last_login": "2023-12-25T11:13:00.145Z",
+        "is_superuser": false,
+        "username": "ram123",
+        "first_name": "Ram",
+        "last_name": "chandra",
+        "email": "Ram@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-12-25T10:57:01.418Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$720000$wmj0us1DLt9js6E25OC191$gArP8s7HS+2punqZyOeh3XB6OPR1cAPrINOSnc6+M8M=",
+        "last_login": "2023-12-25T11:08:18.651Z",
+        "is_superuser": false,
+        "username": "krishna123",
+        "first_name": "krishna",
+        "last_name": "vasudava",
+        "email": "krishna123@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-12-25T11:08:18.054Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "33ym6lolpdbpkcs5g7hqrlquoaa5l2ue",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSHyGsCl-34DGWCQqoGktCvjv2uTLnR7zzn3xQJuaw3boCXMmV2YYKffLWJ6UNtBvmO7dZ56W5c58l3hBx186pme18P9O6g46rd2SibSmQCLBxJIZwM2yWy1UE4K0EAqJmsUCqvIZmk8FOOjkroUZ4G9P9xhN1o:1sBcZT:LPO-DMYTXYyzOM2YnYFEZ-5EaTcAJd6Rg0h4V5Iqb5I",
+        "expire_date": "2024-06-10T15:47:35.578Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5m7uwgluy0vfo418lduxtyj0qxyehp3m",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSHyGsCl-34DGWCQqoGktCvjv2uTLnR7zzn3xQJuaw3boCXMmV2YYKffLWJ6UNtBvmO7dZ56W5c58l3hBx186pme18P9O6g46rd2SibSmQCLBxJIZwM2yWy1UE4K0EAqJmsUCqvIZmk8FOOjkroUZ4G9P9xhN1o:1sBZ0L:NzOC8Ct9WRqBhy5EOH3VQo6st7m3Qz71WMW0hN1rRE4",
+        "expire_date": "2024-06-10T11:59:05.579Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "kq1cwowgp7ck3hzk56md237yoy7x8vma",
+    "fields": {
+        "session_data": ".eJxVjEEOgjAQRe_StWlKOzDVpXvO0Mx0BkFNSSisjHdXEha6_e-9_zKJtnVMW9UlTWIupjGn340pP7TsQO5UbrPNc1mXie2u2INW28-iz-vh_h2MVMdvjRQ4Uu5y62NAhw04iYP6AVCGwMwo0QEguY5AvWIEamIL3dkpBwnm_QHfrjeh:1rHh3t:tUnw8gMibnsUOxb5DI7DbPlX6fcEN2zAQcG_rmaeqWY",
+        "expire_date": "2024-01-08T09:15:49.945Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "rfkoehvzockpjczdo25mhhdaaztuyse8",
+    "fields": {
+        "session_data": ".eJxVjEEOgjAQRe_StWlKOzDVpXvO0Mx0BkFNSSisjHdXEha6_e-9_zKJtnVMW9UlTWIupjGn340pP7TsQO5UbrPNc1mXie2u2INW28-iz-vh_h2MVMdvjRQ4Uu5y62NAhw04iYP6AVCGwMwo0QEguY5AvWIEamIL3dkpBwnm_QHfrjeh:1rInWu:VxUEeXSPmhq3pNEVQPe6N_WbEibk8-v9Pmjbj6xGE8s",
+        "expire_date": "2024-01-11T10:22:20.521Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-12-19T12:01:38.411Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "djangoadmin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-12-20T04:57:20.616Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Jack",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-12-20T05:00:48.062Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Jack",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-12-20T05:04:50.023Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Rajesh",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-12-20T05:06:08.620Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-12-20T05:08:04.856Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-12-20T05:09:42.811Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-12-20T05:10:18.122Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Jack",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-12-20T05:12:06.452Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Rahul",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-12-20T05:13:08.937Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Rahul",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-12-20T05:13:50.466Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Jack",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-12-20T05:46:38.018Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Jack",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-12-20T09:43:42.691Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2023 BMW 3 Series M340i Xdrive",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-12-20T09:49:42.123Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2023 BMW 3 Series M340i Xdrive",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Cruise Control\", \"Audio Interface\", \"Airbags\", \"Air Conditioning\", \"Seat Heating\", \"Alarm System\", \"ParkAssist\", \"Power Steering\", \"Reversing Camera\", \"Direct Fuel Injection\", \"Auto Start Stop\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-12-20T10:55:05.407Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2021 Jeep Compass Model S 4X4 Diesel AT BSVI",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-12-20T10:59:18.406Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2011 Honda City 1.5 V MT",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-12-20T11:03:00.441Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 MG Hector Sharp Diesel MT",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-12-20T11:06:16.291Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Land Rover Discovery Sport TD4 Pure",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-12-20T11:06:22.521Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2017 Land Rover Discovery Sport TD4 Pure",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-12-20T11:06:34.275Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2017 Land Rover Discovery Sport TD4 Pure",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-12-20T11:42:36.187Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Land Rover Discovery Sport TD4 Pure",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-12-20T11:42:36.196Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 MG Hector Sharp Diesel MT",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-12-20T11:42:36.197Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2011 Honda City 1.5 V MT",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-12-21T03:13:06.525Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2011 Honda City 1.5 V MT",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-12-21T03:13:06.534Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2023 BMW 3 Series M340i Xdrive",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-12-21T03:13:33.194Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2023 BMW 3 Series M340i Xdrive",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-12-21T03:14:05.732Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2023 BMW 3 Series M340i Xdrive",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-12-21T09:36:16.699Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 MG Hector Sharp Diesel MT",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Year\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-12-25T08:56:30.489Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-12-25T09:10:56.792Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Client id\", \"Secret key\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-12-25T09:29:39.509Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-12-25T10:15:07.299Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook login",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-12-25T10:20:32.708Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "facebook",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-12-25T10:20:37.022Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "facebook",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-12-25T10:21:09.859Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "3",
+        "object_repr": "google",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-12-28T09:57:46.835Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "3",
+        "object_repr": "esb753@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2023-12-28T09:57:50.773Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "2",
+        "object_repr": "esb753@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2023-12-28T09:57:54.706Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "contacts",
+            "contact"
+        ],
+        "object_id": "1",
+        "object_repr": "esb753@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2024-05-24T09:12:38.076Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2023 BMW 3 Series M340i Xdrive",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2024-05-24T09:17:49.109Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Land Rover Discovery Sport TD4 Pure",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2024-05-24T09:18:33.206Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 MG Hector Sharp Diesel MT",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2024-05-24T09:21:13.775Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2017 Land Rover Discovery Sport TD4 Pure",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2024-05-24T09:21:25.708Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2022 MG Hector Sharp Diesel MT",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2024-05-24T09:22:04.660Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2011 Honda City 1.5 V MT",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2024-05-24T09:22:52.131Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2021 Jeep Compass Model S 4X4 Diesel AT BSVI",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2024-05-24T09:23:42.109Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2023 BMW 3 Series M340i Xdrive",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2024-05-27T05:50:03.397Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Rajesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2024-05-27T05:51:04.415Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Jack",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+}
+]
